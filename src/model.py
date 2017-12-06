@@ -1,6 +1,5 @@
 from definitions import model_path
 
-
 def train():
   print('Training...')
 
