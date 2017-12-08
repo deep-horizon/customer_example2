@@ -1,5 +1,6 @@
 from definitions import model_path
 
+
 def train():
   print('Training...')
   # Training will produce the model file
