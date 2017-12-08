@@ -6,6 +6,7 @@ def train():
   # Training will produce the model file
   with open(model_path, 'w+') as f:
     f.write('the good stuff')
+    
 
 def test():
   print('Testing!')
