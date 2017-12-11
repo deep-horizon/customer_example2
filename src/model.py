@@ -12,6 +12,7 @@ def test():
   print('Testing!')
 
 
+
 def predict(data):
   return {'prediction': 'now-using-nginx'}
 
