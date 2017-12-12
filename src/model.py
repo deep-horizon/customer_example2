@@ -14,4 +14,3 @@ def test():
 
 def predict(data):
   return {'prediction': 'now-using-nginx'}
-
