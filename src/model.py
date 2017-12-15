@@ -9,7 +9,6 @@ def train():
   with open(model_path, 'w+') as f:
     f.write('the good stuff')
 
-
   print('Done training.')
 
 
