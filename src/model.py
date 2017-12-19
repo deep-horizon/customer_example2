@@ -12,7 +12,6 @@ def train():
   print('Done training.')
 
 
-
 def test():
   print('Testing!')
 
