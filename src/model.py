@@ -18,3 +18,7 @@ def test():
 
 def predict(data):
   return 'some-cool-prediction'
+
+
+def reload():
+  pass
